@@ -19,4 +19,4 @@ I am currently working on strengthening my skills in Java backend, SQL Server, a
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Deepak-Kumar-784&limit=5&theme=dark&combine_all_yearly_contributions=true#gh-dark-mode-only&card_width=500)
+![](https://github-contributor-stats.vercel.app/api?username=Deepak-Kumar-784&limit=5&theme=dark&combine_all_yearly_contributions=true#gh-dark-mode-only)
