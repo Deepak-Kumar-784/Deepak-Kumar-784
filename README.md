@@ -1,6 +1,6 @@
 # 💫 About Me :
 
-I am currently working on strengthening my skills in Java backend, SQL Server, and modern web development.<br>Collaborating on full-stack web apps, open-source C++ and Java projects.<br>Advancing my journey in Java backend development.<br>Exploring new areas such as Java and DSA, SFML game development, Generative AI.<br>Ask me about C++, SFML game development, SQL Server (Database), Java.<br>I enjoy learning consoles, new technologies, and experimenting with small projects.
+I am currently working on strengthening my skills in Java, Python, SQL Server, and modern web development.<br>Advancing my journey in Java backend development.<br>Exploring new areas such as Java and DSA, SFML game development.<br>Ask me about C++, SQL Server (Database), Java, Python.<br>I enjoy learning consoles, new technologies, and experimenting with small projects.
 
 ## 🌐 Socials :
 
