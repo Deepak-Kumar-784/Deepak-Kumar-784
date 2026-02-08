@@ -50,30 +50,9 @@ I'm a passionate developer with expertise in **Full-Stack Development**, **Data 
 
 ## 📊 Featured Projects
 
-### 🎮 [Timberman Game](https://github.com/Deepak-Kumar-784/Timberman_Game)
-
-A classic arcade-style game built with C++ and SFML.
-
-**Tech Stack:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat&logo=sfml&logoColor=white)
-
-- Fast-paced gameplay with collision detection
-- Custom graphics and sound effects
-- Modular code architecture
-
----
-
-### 🔐 [FastAPI Token Generator](https://github.com/Deepak-Kumar-784/fastapi-token-generator)
-
-A modern web application for generating secure tokens with dual UI support.
-
-**Tech Stack:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-- RESTful API with FastAPI
-- Modern glassmorphism UI design
-- GitHub Actions CI/CD pipeline
-- Deployed on GitHub Pages
-
----
+<table>
+<tr>
+<td width="50%">
 
 ### 📊 [Data Analytics Project](https://github.com/Deepak-Kumar-784/Data-Analytics-Project)
 
@@ -83,10 +62,27 @@ Comprehensive SQL Server data analysis project with exploratory and advanced ana
 
 - Database initialization and data modeling
 - Exploratory Data Analysis (EDA)
-- Advanced SQL queries and performance optimization
+- Advanced SQL queries
 - Business intelligence insights
 
----
+</td>
+<td width="50%">
+
+### 🔐 [FastAPI Token Generator](https://github.com/Deepak-Kumar-784/fastapi-token-generator)
+
+Modern web application for generating secure tokens with database support.
+
+**Tech Stack:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- RESTful API with FastAPI
+- Modern glassmorphism UI design
+- GitHub Actions CI/CD pipeline
+- Deployed on GitHub Pages
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🖥️ [Linux System Monitoring Tool](https://github.com/Deepak-Kumar-784/Linux_System_Monitoring_Tool-)
 
@@ -94,23 +90,12 @@ Real-time system monitoring tool built with C and ncurses.
 
 **Tech Stack:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- Real-time CPU, memory, and disk monitoring
+- Real-time CPU, memory, disk monitoring
 - Terminal-based UI with ncurses
 - Cross-platform compatibility
 
----
-
-### 📱 [QR Code Generator](https://github.com/Deepak-Kumar-784/QR_Code_Generator)
-
-Python-based QR code generator with customization options.
-
-**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-- Custom background and fill colors
-- Adjustable box sizes
-- Simple command-line interface
-
----
+</td>
+<td width="50%">
 
 ### ⚛️ [React Portfolio Starter](https://github.com/Deepak-Kumar-784/Improvise-React-Starter)
 
@@ -122,15 +107,15 @@ Modern React portfolio template with glassmorphism design.
 - Responsive design
 - Easy customization
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak-Kumar-784&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Kumar-784&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Kumar-784&theme=tokyonight&hide_border=true)
 
