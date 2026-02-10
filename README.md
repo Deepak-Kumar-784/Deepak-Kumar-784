@@ -76,6 +76,13 @@ I'm a passionate developer with expertise in **Full-Stack Development**, **Data 
 
 ---
 
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
