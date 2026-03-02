@@ -76,10 +76,12 @@ I'm a passionate developer with expertise in **Full-Stack Development**, **Data 
 <a href="mailto:deepakkumardipu659@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Deepak-Kumar-784"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-## </div>
+</div>
 
 <div align="center">
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 </div><div align="center">
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
